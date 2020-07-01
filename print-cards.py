@@ -2,6 +2,7 @@ import requests
 import bs4
 import time
 import json
+import ImageComposer
 
 
 def parseCardName(card):
@@ -29,9 +30,8 @@ with open('addedCards', 'r') as newCards:
       else:
         for face in cardJson['card_faces']:
           cards.append(face['image_uris']['normal'])
-    time.sleep(0.1)
     
-  print(cards)
+  ImageComposer.addImages(cards)
  # res = requests.get()
 
 
