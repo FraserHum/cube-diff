@@ -18,6 +18,7 @@ with open('addedCards', 'r') as newCards:
         'https://api.scryfall.com/cards/named?exact=' + cardName)
     cardJson = req.json()
 
+
     if ['highres_image']:
       if 'card_faces' not in cardJson:
         cards.append(cardJson['image_uris']['large'])
