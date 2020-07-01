@@ -53,6 +53,7 @@ print("added: " + str(len(addedCards)) + " removed:" + str(len(removedCards)))
 
 proceed = input("do you want to update your cube file? y/n: ")
 
+print(newCards[1])
 if proceed == 'n':
   exit()
 else:
