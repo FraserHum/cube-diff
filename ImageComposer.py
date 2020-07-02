@@ -13,10 +13,9 @@ dpi = 300
 cardHeight = int(round(3.5 * dpi))
 cardWidth = int(round(2.5 * dpi))
 
-outsideXBorder = 250
-outsideYBorder = 150
-xBorder = int((pageWidth - (2 * outsideXBorder) - (3 * cardWidth)) / 2)
-yBorder = int((pageHeight - (2 * outsideYBorder) - (2 * cardHeight)) / 1)
+
+xBorder = int((pageWidth - (3 * cardWidth)) / 4)
+yBorder = int((pageHeight - (2 * cardHeight)) / 3)
 print(xBorder)
 print(yBorder)
 
@@ -58,8 +57,8 @@ def addImages(imgs):
 
 
 def cords(col, row):
-    return ((outsideXBorder + (col * cardWidth) + (col * xBorder)),
-            (outsideYBorder + (row * cardHeight) + (row * yBorder)))
+    return ((xBorder + (col * cardWidth) + (col * xBorder)),
+            (yBorder + (row * cardHeight) + (row * yBorder)))
 
 
 def drawCorners(im, col, row):
