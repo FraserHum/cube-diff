@@ -34,7 +34,6 @@ with open('addedCards', 'r') as newCards:
           cards.append(face['image_uris']['normal'])
     
   makepdf.makePdf("new cards", ImageComposer.addImages(cards))
- # res = requests.get()
 
 
  

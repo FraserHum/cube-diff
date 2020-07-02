@@ -7,4 +7,4 @@ currently hard coded to get the list for vintage cube from : https://magic.wizar
 pdfs can have multiple pages with 6 cards per page.
 also includes cutting lines.
 
-images are taken from scryfall API, downloading each image can take some time so if youre building the complete list expect it to take a few minutes.
+Images are taken from scryfall API, downloading each image can take some time so if you're building the complete list expect it to take a few minutes.
