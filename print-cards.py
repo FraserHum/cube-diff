@@ -3,6 +3,7 @@ import bs4
 import time
 import json
 import ImageComposer
+import makepdf
 
 
 def parseCardName(card):
@@ -32,7 +33,7 @@ with open('addedCards', 'r') as newCards:
         for face in cardJson['card_faces']:
           cards.append(face['image_uris']['normal'])
     
-  ImageComposer.addImages(cards)
+  makepdf.makePdf("new cards", ImageComposer.addImages(cards))
  # res = requests.get()
 
 
