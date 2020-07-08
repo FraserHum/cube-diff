@@ -8,3 +8,5 @@ pdfs can have multiple pages with 6 cards per page.
 also includes cutting lines.
 
 Images are taken from scryfall API, downloading each image can take some time so if you're building the complete list expect it to take a few minutes.
+
+A post about this tool can be found on my blog at : https://fraser-humphries.herokuapp.com/home/mtg-cube-diff
