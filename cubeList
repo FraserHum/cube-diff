@@ -13,35 +13,31 @@ Tithe Taker
 Wall of Omens
 Leonin Relic-Warder
 Blade Splicer
-Fairgrounds Warden
+Skyclave Apparition
 Lingering Souls
 Monastery Mentor
 Recruiter of the Guard
-Brightling
+Spirit of the Labyrinth
 Brimaz, King of Oreskos
 Flickerwisp
-Hallowed Spiritkeeper
+Vryn Wingmare
 Silverblade Paladin
 Restoration Angel
-Emeria Angel
+Eidolon of Obstruction
 Hero of Bladehold
 Linvala, Keeper of Silence
 Reveillark
-Angel of Invention
+Seasoned Hallowblade
 Elspeth Conquers Death
 Baneslayer Angel
 Lyra Dawnbringer
 Sun Titan
 Spectral Procession
 Elesh Norn, Grand Cenobite
-Gideon Jura
-Iona, Shield of Emeria
-Adanto Vanguard
-Archangel Avacyn
 Karakas
 Mox Pearl
 Condemn
-Enlightened Tutor
+Lapse of Certainty
 Land Tax
 Mana Tithe
 Path to Exile
@@ -54,20 +50,24 @@ Banishing Light
 Oblivion Ring
 Council's Judgment
 Gideon Blackblade
-Spear of Heliod
+Fight as One
 Armageddon
 Faith's Fetters
 Ravages of War
 Day of Judgment
 Elspeth, Knight-Errant
 Gideon, Ally of Zendikar
-Moat
+Felidar Retreat
 Parallax Wave
 Wrath of God
 Elspeth, Sun's Champion
-Terminus
-Angel of Serenity
+Oust
+Emeria's Call
 Unexpectedly Absent
+Gideon Jura
+Adanto Vanguard
+Archangel Avacyn
+Iona, Shield of Emeria
 Thassa's Oracle
 Spell Pierce
 Baral, Chief of Compliance
@@ -76,18 +76,18 @@ Mana Leak
 Phantasmal Image
 Remand
 Snapcaster Mage
-Thing in the Ice
+Thieving Skydiver
 Counterspell
 Mana Drain
 Deceiver Exarch
 Pestermite
 Spellseeker
 Trinket Mage
-Brazen Borrower
+Shark Typhoon
 Force of Negation
 Narset, Parter of Veils
 Vendilion Clique
-Jace Beleren
+Jace, Mirror Mage
 Control Magic
 Glen Elendra Archmage
 Jace, the Mind Sculptor
@@ -96,7 +96,7 @@ Urza, Lord High Artificer
 Venser, Shaper Savant
 Mulldrifter
 Bribery
-Mystic Confluence
+Commit // Memory
 Tezzeret the Seeker
 Treachery
 Consecrated Sphinx
@@ -104,14 +104,6 @@ Frost Titan
 Torrential Gearhulk
 Upheaval
 Inkwell Leviathan
-Jace, Vryn's Prodigy
-Riftwing Cloudskate
-Looter il-Kor
-Search for Azcanta
-Time Warp
-Shark Typhoon
-High Tide
-Opposition
 Shelldock Isle
 Ancestral Vision
 Mox Sapphire
@@ -133,7 +125,7 @@ Thirst for Knowledge
 Timetwister
 Tinker
 Fact or Fiction
-Gifts Ungiven
+The Mirari Conjecture
 Turnabout
 Cryptic Command
 Gush
@@ -144,6 +136,14 @@ Palinchron
 Treasure Cruise
 Dig Through Time
 Repeal
+Jace, Vryn's Prodigy
+Riftwing Cloudskate
+Sea Gate Stormcaller
+Looter il-Kor
+Brazen Borrower
+Time Warp
+High Tide
+Opposition
 Duress
 Fatal Push
 Inquisition of Kozilek
@@ -151,7 +151,7 @@ Thoughtseize
 Cabal Ritual
 Collective Brutality
 Dark Confidant
-Go for the Throat
+Bloodchief's Thirst
 Kitesail Freebooter
 Liliana's Triumph
 Mesmeric Fiend
@@ -159,31 +159,27 @@ Night's Whisper
 Heartless Act
 Wishclaw Talisman
 Hymn to Tourach
-Vampire Hexmage
+Nullpriest of Oblivion
 Bone Shredder
 Ophiomancer
 Plaguecrafter
 Rotting Regisaur
 Toxic Deluge
 Hero's Downfall
-Hypnotic Specter
+Woe Strider
 Murderous Rider
-Vampire Nighthawk
+Nighthawk Scavenger
 Damnation
 Gonti, Lord of Luxury
 Languish
 Mastermind's Acquisition
-Nekrataal
+Phyrexian Rager
 Ravenous Chupacabra
 Yawgmoth, Thran Physician
 Shriekmaw
 Dark Petition
 Liliana, Death's Majesty
-Ink-Eyes, Servant of Oni
-Bitterblossom
-Tasigur, the Golden Fang
-Phyrexian Arena
-Bolas's Citadel
+Sling-Gang Lieutenant
 Bazaar of Baghdad
 Rishadan Port
 Mox Jet
@@ -199,7 +195,7 @@ Exhume
 Oona's Prowler
 Pack Rat
 Shallow Grave
-Buried Alive
+Agadeem's Awakening
 Corpse Dance
 Necromancy
 Recurring Nightmare
@@ -215,6 +211,10 @@ Massacre Wurm
 Sheoldred, Whispering One
 Griselbrand
 Mind Twist
+Bitterblossom
+Tasigur, the Golden Fang
+Midnight Reaper
+Bolas's Citadel
 Goblin Guide
 Goblin Welder
 Grim Lavamancer
@@ -233,7 +233,7 @@ Shrine of Burning Rage
 Char
 Goblin Rabblemaster
 Imperial Recruiter
-Magus of the Moon
+Earthshaker Khenra
 Seething Song
 Wheel of Fortune
 Seasoned Pyromancer
@@ -243,18 +243,14 @@ Flametongue Kavu
 Hazoret the Fervent
 Hellrider
 Pia and Kiran Nalaar
-Terror of the Peaks
+Rampaging Ferocidon
 Glorybringer
 Goblin Dark-Dwellers
 Siege-Gang Commander
 Thundermaw Hellkite
 Kiki-Jiki, Mirror Breaker
 Inferno Titan
-Bonfire of the Damned
-Lukka, Coppercoat Outcast
-Faithless Looting
-Empty the Warrens
-Zealous Conscripts
+Shatterskull Smashing
 Field of Ruin
 Strip Mine
 Wasteland
@@ -273,7 +269,7 @@ Mizzium Mortars
 Pyretic Ritual
 Pyroclasm
 Light Up the Stage
-Mana Flare
+Experimental Frenzy
 Daretti, Scrap Savant
 Past in Flames
 Sneak Attack
@@ -286,6 +282,10 @@ Burning of Xinye
 Fireblast
 Wildfire
 Banefire
+Zealous Conscripts
+Empty the Warrens
+Faithless Looting
+Mana Flare
 Arbor Elf
 Avacyn's Pilgrim
 Birds of Paradise
@@ -308,7 +308,7 @@ Channel
 Rofellos, Llanowar Emissary
 Cultivate
 Search for Tomorrow
-Tireless Tracker
+Dryad of the Ilysian Grove
 Courser of Kruphix
 Yavimaya Elder
 Oracle of Mul Daya
@@ -319,17 +319,13 @@ Primal Command
 Whisperwood Elemental
 Carnage Tyrant
 Primeval Titan
-Tooth and Nail
+Turntimber Symbiosis
 Green Sun's Zenith
 Finale of Devastation
-Dryad of the Ilysian Grove
-Heartbeat of Spring
-Terastodon
-Plow Under
 Gaea's Cradle
 Mox Emerald
 Nature's Claim
-Den Protector
+Nissa, Vastwood Seer
 Devoted Druid
 Fauna Shaman
 Gilded Goose
@@ -342,7 +338,7 @@ Eternal Witness
 Garruk Relentless
 Elder Gargaroth
 Garruk Wildspeaker
-Master of the Wild Hunt
+Hexdrinker
 Polukranos, World Eater
 Questing Beast
 Thragtusk
@@ -350,66 +346,140 @@ Acidic Slime
 Biogenic Ooze
 Deranged Hermit
 Nissa, Who Shakes the World
-Vivien Reid
-Vivien, Monsters' Advocate
+Freyalise, Llanowar's Fury
+Birthing Pod
 Avenger of Zendikar
 Craterhoof Behemoth
 Woodfall Primus
-Fractured Identity
-Yorion, Sky Nomad
-Sphinx's Revelation
-Teferi, Hero of Dominaria
-Teferi, Time Raveler
-Ashiok, Nightmare Weaver
-Baleful Strix
-Fallen Shinobi
-The Scarab God
-Thief of Sanity
+Tireless Tracker
+Heartbeat of Spring
+Terastodon
+Plow Under
 Angrath's Rampage
+Kroxa, Titan of Death's Hunger
 Daretti, Ingenious Iconoclast
 Kolaghan's Command
 Rakdos's Return
-Kroxa, Titan of Death's Hunger
-Bloodbraid Elf
-Dragonlord Atarka
-Huntmaster of the Fells
-Manamorphose
-Wrenn and Six
-Kitchen Finks
-Knight of Autumn
-Knight of the Reliquary
-Mirari's Wake
-Trostani Discordant
-Anguished Unmaking
-Ashen Rider
-Kaya, Orzhov Usurper
-Tidehollow Sculler
-Vindicate
-Dack Fayden
-Expansion // Explosion
-Fire // Ice
-Goblin Electromancer
-Thousand-Year Storm
-Assassin's Trophy
-Fiend Artisan
-Maelstrom Pulse
-Pernicious Deed
-Vraska, Golgari Queen
-Ajani Vengeant
+Yorion, Sky Nomad
+Teferi, Time Raveler
+Fractured Identity
+Teferi, Hero of Dominaria
+Geist of Saint Traft
 Figure of Destiny
 Lightning Helix
+Ajani Vengeant
 Nahiri, the Harbinger
 Wear // Tear
-Edric, Spymaster of Trest
-Hydroid Krasis
+Prime Speaker Vannifar
 Oko, Thief of Crowns
 Uro, Titan of Nature's Wrath
 Trygon Predator
+Hydroid Krasis
+Tidehollow Sculler
+Anguished Unmaking
+Vindicate
+Ashen Rider
+Kaya, Orzhov Usurper
+Manamorphose
+Wrenn and Six
+Bloodbraid Elf
+Huntmaster of the Fells
+Dragonlord Atarka
+Baleful Strix
+Ashiok, Nightmare Weaver
+Thief of Sanity
+Fallen Shinobi
+The Scarab God
+Kitchen Finks
+Knight of Autumn
+Knight of the Reliquary
+Gaddock Teeg
+Mirari's Wake
+Goblin Electromancer
+Dack Fayden
+Fire // Ice
+Thousand-Year Storm
+Expansion // Explosion
+Assassin's Trophy
+Maelstrom Pulse
+Pernicious Deed
+Vraska, Golgari Queen
+Casualties of War
 Leovold, Emissary of Trest
-Nicol Bolas, Dragon-God
+Omnath, Locus of Creation
 Sphinx of the Steel Wind
+Niv-Mizzet Reborn
 Progenitus
-Coercive Portal
+Ancient Tomb
+Badlands
+Blackcleave Cliffs
+Blast Zone
+Blood Crypt
+Bloodstained Mire
+Celestial Colonnade
+Flooded Strand
+Hallowed Fountain
+Lavaclaw Reaches
+Library of Alexandria
+Maze of Ith
+Mishra's Workshop
+Prismatic Vista
+Seachrome Coast
+Tolarian Academy
+Tundra
+Arid Mesa
+Botanical Sanctum
+Breeding Pool
+Inspiring Vantage
+Lumbering Falls
+Mishra's Factory
+Misty Rainforest
+Mutavault
+Needle Spires
+Plateau
+Sacred Foundry
+Tropical Island
+Concealed Courtyard
+Copperline Gorge
+Godless Shrine
+Marsh Flats
+Nykthos, Shrine to Nyx
+Raging Ravine
+Scrubland
+Shambling Vent
+Stomping Ground
+Taiga
+Wooded Foothills
+Creeping Tar Pit
+Darkslick Shores
+Polluted Delta
+Razorverge Thicket
+Savannah
+Stirring Wildwood
+Temple Garden
+Underground Sea
+Watery Grave
+Windswept Heath
+Bayou
+Blooming Marsh
+Hissing Quagmire
+Overgrown Tomb
+Scalding Tarn
+Spirebluff Canal
+Steam Vents
+Verdant Catacombs
+Volcanic Island
+Wandering Fumarole
+Academy Ruins
+Black Lotus
+Chrome Mox
+Everflowing Chalice
+Mana Crypt
+Mox Diamond
+Mana Vault
+Sol Ring
+Azorious Signet
+Rakdos Signet
 Boros Signet
 Simic Signet
 Winter Orb
@@ -423,15 +493,20 @@ Kozilek, Butcher of Truth
 Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
 Emrakul, the Aeons Torn
-Black Lotus
-Chrome Mox
-Everflowing Chalice
-Mana Crypt
-Mox Diamond
-Mana Vault
-Sol Ring
-Azorius Signet
-Rakdos Signet
+Lotus Bloom
+Lion's Eye Diamond
+Skullclamp
+Gruul Signet
+Lotus Petal
+Orzhov Signet
+Umezawa's Jitte
+Coalition Relic
+Sword of Body and Mind
+Sword of Feast and Famine
+Sword of Fire and Ice
+Gilded Lotus
+Batterskull
+Wurmcoil Engine
 Relic of Progenitus
 Sensei's Divining Top
 Dimir Signet
@@ -462,79 +537,4 @@ Kuldotha Forgemaster
 Myr Battlesphere
 Sundering Titan
 Blightsteel Colossus
-Lotus Bloom
-Lion's Eye Diamond
-Skullclamp
-Gruul Signet
-Lightning Greaves
-Orzhov Signet
-Umezawa's Jitte
-Coalition Relic
-Sword of Body and Mind
-Sword of Feast and Famine
-Sword of Fire and Ice
-Sword of Light and Shadow
-Sword of War and Peace
-Batterskull
-Wurmcoil Engine
-Ancient Tomb
-Badlands
-Blackcleave Cliffs
-Blast Zone
-Blood Crypt
-Bloodstained Mire
-Celestial Colonnade
-Flooded Strand
-Hallowed Fountain
-Lavaclaw Reaches
-Library of Alexandria
-Maze of Ith
-Mishra's Workshop
-Prismatic Vista
-Seachrome Coast
-Tolarian Academy
-Tundra
-Misty Rainforest
-Mutavault
-Needle Spires
-Plateau
-Sacred Foundry
-Tropical Island
-Scrubland
-Shambling Vent
-Stomping Ground
-Taiga
-Wooded Foothills
-Academy Ruins
-Temple Garden
-Underground Sea
-Watery Grave
-Windswept Heath
-Steam Vents
-Verdant Catacombs
-Volcanic Island
-Wandering Fumarole
-Bayou
-Blooming Marsh
-Hissing Quagmire
-Overgrown Tomb
-Scalding Tarn
-Spirebluff Canal
-Creeping Tar Pit
-Darkslick Shores
-Polluted Delta
-Razorverge Thicket
-Savannah
-Stirring Wildwood
-Concealed Courtyard
-Copperline Gorge
-Godless Shrine
-Marsh Flats
-Nykthos, Shrine to Nyx
-Raging Ravine
-Arid Mesa
-Botanical Sanctum
-Breeding Pool
-Inspiring Vantage
-Lumbering Falls
-Mishra's Factory
+Coercive Portal

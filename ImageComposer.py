@@ -131,3 +131,18 @@ def getRow(i):
 
 def needNewImage(i):
     return ((i > 0) and (i % 6 == 0))
+
+
+# def getCorner(x, y):
+#     left = cords(col, row)[0]
+#     right = left + (cardWidth - squareSize)
+#     top = cords(col, row)[1]
+#     bottom = top + (cardHeight - squareSize)
+
+#     if (x == 'left'):
+
+#     else:
+
+#     if(y == 'top'):
+
+#     else:\

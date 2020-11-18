@@ -21,10 +21,11 @@ with open('addedCards', 'r') as newCards:
 
 
     if ['highres_image']:
-      if 'card_faces' not in cardJson:
+      if 'card_faces' not in cardJson or cardJson['layout'] == 'split':
         cards.append(cardJson['image_uris']['large'])
       else:
         for face in cardJson['card_faces']:
+          print(cardJson);
           cards.append(face['image_uris']['large'])
     else:
       if 'card_faces' not in cardJson:

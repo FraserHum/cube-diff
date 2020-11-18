@@ -44,17 +44,19 @@ with open('addedCards', 'w') as f:
 with open('removedCards', 'w') as f:
     for card in removedCards:
         f.write(card + '\n')
-
+print("------------\n")
 print("added cards: ")
+print("------------\n")
 print("\n".join(addedCards))
+print("------------\n")
 print("removed Cards: ")
+print("------------\n")
 print("\n".join(removedCards))
 print("added: " + str(len(addedCards)) + " removed:" + str(len(removedCards)))
 #f.write(card.string+ '\n')
 
 proceed = input("do you want to update your cube file? y/n: ")
 
-print(newCards[1])
 if proceed == 'n':
     exit()
 else:
